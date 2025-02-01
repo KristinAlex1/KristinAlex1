@@ -1,4 +1,15 @@
-<h3 align="center">Hi 👋! My name is Kristin Alex and I'm a Fourth-Year Computer Science student from Acadia University</h3>
+<h3 align="center">👋 Hey there, I’m Kristin Alex!<br>I'm a Fourth-Year Computer Science student at Acadia University, passionate about all things Web and App development.<br><br>💻 My journey started with a simple <h1>Hello World!</h1>, and before I knew it, I had dived deep into Full-Stack Development—from crafting sleek frontends to optimizing powerful backends.<br><br>🚀 What started as curiosity turned into a full-blown obsession with building, debugging, and sometimes questioning my life choices when a missing semicolon breaks everything. 😅<br><br>🔧 Whether it's designing intuitive UIs, optimizing database queries, or chasing down that one elusive bug at 3 AM, I love every part of the development process and learning new tech stacks.</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrisCodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrisCodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=KrisCodes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=KrisCodes&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
@@ -37,6 +48,18 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KrisCodes/KrisCodes/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
