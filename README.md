@@ -7,7 +7,18 @@
 ![](https://github-profile-trophy.vercel.app/?username=KristinAlex1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-👋 Hey there, I’m Kristin Alex!<br>I'm a Full Stack Developer and Fourth-Year Computer Science student at Acadia University, passionate about all things Web & App Development.<br><br>💻 My journey began not with a simple "Hello World!", but with the thrill of making a static page dynamic—tinkering with my first few lines of JavaScript and suddenly watching a button change colors. That small spark of interactivity pulled me deep into the world of Full-Stack Development, where I realized I could build, break, and rebuild anything I imagined.<br><br>🚀 What started as curiosity soon became an obsession—designing sleek UIs, optimizing powerful backends, and, of course, questioning my life choices when a mysterious bug refuses to go away. 😅 But hey, that’s the beauty of coding!<br><br>🔧 Whether it's architecting scalable applications, optimizing database queries, or chasing down that one elusive bug at 3 AM, I love every part of the development process. And the best part? I’m constantly learning—exploring new tech stacks, experimenting with cutting-edge frameworks, and refining my craft to build even better solutions.<br><br>💡 Tech I Love: JavaScript, React, React-Native, Node.js, Tailwind CSS, Appwrite, and anything that makes development faster, cleaner, and more efficient.<br><br>🛠️ Motto: "Move fast and fix things."<br><br>📬 Let’s connect! I'm always open to collaborations, new projects, and exciting opportunities. 🚀
+I’m a Computer Science graduate with a strong interest in systems administration, IT support, and enterprise technology environments, supported by hands-on experience in web development.
+
+💻 My journey into technology started with building dynamic web applications, but over time my focus expanded beyond just code. I became increasingly interested in how systems work end-to-end—from user access and authentication to infrastructure, security, reliability, and day-to-day operational support. That curiosity led me to work with technologies such as Windows systems, Active Directory concepts, Microsoft Entra ID (Azure AD), networking fundamentals, and cloud-based identity management.
+
+🔧 I enjoy understanding how users interact with technology and how systems can be configured, supported, and improved to reduce friction and improve reliability. My background in web development helps me better understand application behavior, authentication flows, and user-facing issues, which is valuable when troubleshooting access problems or supporting enterprise environments.
+
+🚀 I thrive in structured, fast-paced environments where clear communication, documentation, and problem-solving matter. I value continuous learning, attention to detail, and working collaboratively to support stable, secure, and well-managed systems.
+
+💡 Core Interests & Skills:
+Windows & Identity Systems • Active Directory Concepts • Microsoft Entra ID • Networking Fundamentals • IT Support & Troubleshooting • React • Firebase • Full-Stack Web Technologies
+
+📬 Always open to conversations, collaboration, and opportunities in IT support, systems administration, and enterprise technology roles.
 
 
 ## 🌐 Socials:
